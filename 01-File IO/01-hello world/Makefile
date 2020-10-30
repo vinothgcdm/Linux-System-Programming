@@ -2,7 +2,7 @@
 CXX		 = gcc
 CXXFLAGS = -Wall
 TARGET	 = main
-SRC		 = main.cpp
+SRC		 = main.c
 LDLIBS	 =
 
 $(TARGET): $(SRC)
